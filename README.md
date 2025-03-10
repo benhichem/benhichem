@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="left">
